@@ -1,0 +1,16 @@
+.container_inner {
+ 
+  background-color: #555555;
+  width: 450px;
+  margin-left: -165px;
+
+padding-left: 60px;
+padding-top: 160px;
+padding-bottom: 160px;
+
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
