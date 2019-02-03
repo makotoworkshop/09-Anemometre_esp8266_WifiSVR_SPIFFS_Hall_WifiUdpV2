@@ -5,7 +5,7 @@ Réalisation ici : https://burogu.makotoworkshop.org/index.php?post/2018/11/12/a
 Matériel :
 
     1 Capteur à effet Hall.
-    2 aimants permanents au néodyme.
+    2 aimants permanents au néodyme : ∅6 mm x 3mm
     1 plaquette NodeMCUv3 LoLin.
     1 résistance 10kΩ.
     2 roulements à billes : ∅5 int x ∅10 ext x 4 mm.
