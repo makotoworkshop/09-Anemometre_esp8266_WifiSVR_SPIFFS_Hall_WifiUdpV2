@@ -70,7 +70,7 @@ void rpm_vent()   // appelée par l'interruption, Anémomètre vitesse du vent.
   {
     rpmVent = 60 / (intervalleKMH /1000);  
   }
-  vitVentKMH = ( rpmVent + 6.174 ) / 8.367;
+  vitVentKMH = ( rpmVent / 12 );
   Serial.print ( "vitVentKMH : " );
   Serial.println ( vitVentKMH ); // affiche les rpm  
   Serial.println ( "" );
